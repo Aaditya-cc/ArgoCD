@@ -1,5 +1,4 @@
 # ArgoCD examples
 
-This repository contains examples for the ArgoCD/GitOps
-certification workshops.
+This repository contains examples for the ArgoCD/GitOps workshops.
 
